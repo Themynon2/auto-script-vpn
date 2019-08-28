@@ -2,7 +2,7 @@
 #Menu
 
 echo -e "================================MENU====================================="
-echo -e "* menu       : เรียกดู menu"
+echo -e "* 1: เรียกดู menu"
 echo -e "* member     : ดูจำนวน user"
 echo -e "* usernew     : สร้าง user ใหม่"
 echo -e "* speedtest     : ทดสอบความเร็วเน็ต"
